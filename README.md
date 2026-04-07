@@ -1,5 +1,5 @@
 ## Hi there 👋
-I'm Honey
+I'm Honey.
 A cybersecurity student with a strong interest in building practical and real-world projects.
 I'm enjoy learning by doing, especially in Security, AI, and IOT.
 
