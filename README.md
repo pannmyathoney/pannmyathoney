@@ -1,16 +1,22 @@
 ## Hi there 👋
+I'm Honey
+A cybersecurity student with a strong interest in building practical and real-world projects.
+I'm enjoy learning by doing, especially in Security, AI, and IOT.
 
-<!--
-**pannmyathoney/pannmyathoney** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Interested in:
+- Cybersecurity
+- Networking and System security
+- AI and Security Projects
+- Real-world problem solving
 
-Here are some ideas to get you started:
+## Current working on
+- Improving my Linux (Kali) skills
+- Learning Python for security and automation
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tools I use:
+- Python
+- Kali Linux
+- HTML, CSS, PHP, JavaScript
+
+## How to reach me:
+= email: lemonpietoeat@gmail.com
