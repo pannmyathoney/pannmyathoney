@@ -17,6 +17,7 @@ I'm enjoy learning by doing, especially in Security, AI, and IoT.
 - Python
 - Kali Linux
 - HTML, CSS, PHP, JavaScript
+- C++
 
 ## How to reach me:
 = email: lemonpietoeat@gmail.com
