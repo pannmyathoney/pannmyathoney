@@ -4,7 +4,7 @@ A cybersecurity student with a strong interest in building practical and real-wo
 I'm enjoy learning by doing, especially in Security, AI, and IoT.
 
 ## Interested in:
-- Cybersecurity
+- Defensive Cybersecurity
 - Networking and System security
 - AI and Security Projects
 - Real-world problem solving
